@@ -3,4 +3,6 @@ Sales Performance Analysis for retail store showing an interactive PowerBi dashb
 
 
 
+
 [Pivot Table for SalesData.xlsx](https://github.com/user-attachments/files/17612495/Pivot.Table.for.SalesData.xlsx)
+[Capstone Project SalesData.xlsx](https://github.com/user-attachments/files/17612510/Capstone.Project.SalesData.xlsx)
