@@ -36,7 +36,13 @@ The dataset includes the following key columns:
 ![image](https://github.com/user-attachments/assets/70e652c8-e93f-4d1d-87dd-b2d657988efd)
 
 3. Monthly Trend: It is observed that sales in February in year 2023 and Year 2024 were consistently high and consistently low in April for both year
-![image](https://github.com/user-attachments/assets/6238b0c6-bec3-418e-883c-fed61e7b8379)
+![image](https://github.com/user-attachments/assets/6238b0c6-bec3-418e-883c-fed61e7b8379)	
+
+![image](https://github.com/user-attachments/assets/c308d573-058f-455f-aefb-2aa0d7e4563c)
+
+![image](https://github.com/user-attachments/assets/ed8753ea-3c33-442e-b7fa-77bb6c4ac451)
+
+![image](https://github.com/user-attachments/assets/8659cd53-168a-476f-aa9f-d667cd721955)
 
 
 
