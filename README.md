@@ -26,7 +26,14 @@ The dataset includes the following key columns:
 -  **Data:** [Capstone Project SalesData.xlsx](https://github.com/user-attachments/files/17619297/Capstone.Project.SalesData.xlsx)
 -  **SQL Scripts:** Find in Attached files
 -  **PowerBi:** ![Capstone SalesData PowerBi](https://github.com/user-attachments/assets/b954d41c-991a-451e-86ba-b12eac80d4c4)
+-  **Documentation:**
+### *Project Report*
+1.  Top-Selling Products: It was observed that shoes is ranking top with a total revenue of 613,380 followed by shirts with a total revenue of 485,600 as shown in the image below.
 
+![image](https://github.com/user-attachments/assets/c6b33076-b2ae-4c96-b764-2dbda583e662)
+ 
+2.  Regional Sales Performance: The analysis shows that South has the highest total revenue as shown 
+![image](https://github.com/user-attachments/assets/70e652c8-e93f-4d1d-87dd-b2d657988efd)
 
 
 
