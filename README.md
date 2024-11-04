@@ -24,7 +24,9 @@ The dataset includes the following key columns:
 
 ##  Project Structure
 -  **Data:** [Capstone Project SalesData.xlsx](https://github.com/user-attachments/files/17619297/Capstone.Project.SalesData.xlsx)
--  **SQL Scripts:** 
+-  **SQL Scripts:** Find in Attached files
+-  **PowerBi:** ![Capstone SalesData PowerBi](https://github.com/user-attachments/assets/b954d41c-991a-451e-86ba-b12eac80d4c4)
+
 
 
 
