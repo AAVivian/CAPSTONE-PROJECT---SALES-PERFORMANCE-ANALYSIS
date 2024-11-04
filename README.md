@@ -4,7 +4,7 @@ This project collects and analyzes Sales Data from various regions and retail st
 ## Objectives
 -  Identify Top-Selling products
 -  Identify Regional Sales Performance
--  Analyzes monthly sales trends and overall revenue gebneration'
+-  Analyzes monthly sales trends and overall revenue generation'
 -  Develop interactive visuals to communicate key insights
 
 ## Data Collected
@@ -34,6 +34,9 @@ The dataset includes the following key columns:
  
 2.  Regional Sales Performance: The analysis shows that South has the highest total revenue as shown 
 ![image](https://github.com/user-attachments/assets/70e652c8-e93f-4d1d-87dd-b2d657988efd)
+
+3. Monthly Trend: It is observed that sales in February in year 2023 and Year 2024 were consistently high and consistently low in April for both year
+![image](https://github.com/user-attachments/assets/6238b0c6-bec3-418e-883c-fed61e7b8379)
 
 
 
