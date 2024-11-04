@@ -35,9 +35,10 @@ The dataset includes the following key columns:
 2.  Regional Sales Performance: The analysis shows that South has the highest total revenue as shown 
 ![image](https://github.com/user-attachments/assets/70e652c8-e93f-4d1d-87dd-b2d657988efd)
 
-3. Monthly Trend: It is observed that sales in February in year 2023 and Year 2024 were consistently high and consistently low in April for both year
+3.  Monthly Trend: It is observed that sales in February in year 2023 and Year 2024 were consistently high and consistently low in April for both year
 ![image](https://github.com/user-attachments/assets/6238b0c6-bec3-418e-883c-fed61e7b8379)	
 
+4.  
 ![image](https://github.com/user-attachments/assets/c308d573-058f-455f-aefb-2aa0d7e4563c)
 
 ![image](https://github.com/user-attachments/assets/ed8753ea-3c33-442e-b7fa-77bb6c4ac451)
@@ -45,6 +46,18 @@ The dataset includes the following key columns:
 ![image](https://github.com/user-attachments/assets/8659cd53-168a-476f-aa9f-d667cd721955)
 
 
+## Key Metrics
 
-[Pivot Table for SalesData.xlsx](https://github.com/user-attachments/files/17612495/Pivot.Table.for.SalesData.xlsx)
+### Total Sales for each Product Category
+SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Shoes'
+SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Shirt'
+SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Hat'
+SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Jacket'
+SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Gloves'
+SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Socks'
+
+
+
+
+tal [Pivot Table for SalesData.xlsx](https://github.com/user-attachments/files/17612495/Pivot.Table.for.SalesData.xlsx)
 [Capstone Project SalesData.xlsx](https://github.com/user-attachments/files/17612510/Capstone.Project.SalesData.xlsx)
