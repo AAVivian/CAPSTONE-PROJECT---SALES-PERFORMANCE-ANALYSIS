@@ -49,12 +49,12 @@ The dataset includes the following key columns:
 ## Key Metrics
 
 ### Total Sales for each Product Category
-SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Shoes'
-SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Shirt'
-SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Hat'
-SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Jacket'
-SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Gloves'
-SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Socks'
+1. SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Shoes'
+2. SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Shirt'
+3. SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Hat'
+4. SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Jacket'
+5. SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Gloves'
+6. SELECT SUM(revenue) AS TotalSales FROM CapstoneProjectSalesData WHERE product ='Socks'
 
 
 
